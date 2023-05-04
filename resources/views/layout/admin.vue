@@ -1,7 +1,7 @@
 <template>
     <Header />
     <div class="container-fluid">
-        <div class="row">
+        <div class="row mt-3">
             <div class="col-sm-3 d-none d-sm-flex">
                 <a-list bordered style="width: 100%">
                     <Menu />
